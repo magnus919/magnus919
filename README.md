@@ -18,7 +18,7 @@ I'm not actively contributing code on GitHub (this is just not in my core streng
 
 ## What guides me
 
-I'm going to maintain this in an adjacent document. Watch this space.
+See [my compass](compass.md).
 
 ## What I'm doing
 
