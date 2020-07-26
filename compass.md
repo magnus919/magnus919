@@ -60,11 +60,15 @@ These questions were provided to me via Dr. Nicole Radziwill & Rajesh Anandan of
 
 ### What motivates you/makes you tick?
 
-Finding, exploring, and nurturing hidden potential. Both in myself and in others. And, taken in meta, the hidden potential of groups of people.
+Finding, exploring, and nurturing hidden potential. Both in myself and in others. And, taken in meta, the hidden potential of groups of people. It's probably fair to say that I was always curious about a lot of things. But this took a bit more direction when I found out late in life that I am Autistic. Now a lot of the direction is figuring out how to be a better human being, and to help others to do the same.
+
+At work I've become a bit of an organization "fixer". That is to say, I'm drawn to dysfunction. I roll up my sleeves, so to speak, and start cleaning up the dysfunctional bits so they can run more effectively. Partly this is addressing team culture and processes. And partly this is working with individuals on the team to help them to feel more engaged with their careers again and the work they are doing. Seeing dejected, disengaged people find their spark again brings me a lot of joy.
 
 ### What do you want to achieve personally in the next decade?
 
 I know I have a lot of stories in me, but I've been struggling with finding the attention span to finish writing *one* (vs. finding it easy to start *many*). I like to write, and I think I'm not bad at it. I'd like to do something more substantial with that.
+
+My children will be grown and off to school (or to start their adult lives). I'm looking forward to traveling the world more often with my partner. I wandered a good bit as a child, and I still like to do that, just on a global scale.
 
 ### What do you want to achieve professionally in the next decade?
 
@@ -72,7 +76,9 @@ I want to start the kind of business that I'd prefer to work for. I want to have
 
 ### What do you want to achieve professionally in the next 2-3 years?
 
-I want to learn the skills I need to start and grow my own business. I have a lot of experience leading large teams of technologists, and as broad as that scope of responsibility comes, it's still siloed to technology leadership. To become a more effective leader, I need to get some more holistic experience building and growing a business or line of business.
+I want to learn the skills I need to start and grow my own business. I have a lot of experience leading large teams of technologists, and as broad as that scope of responsibility comes, it's still siloed to technology leadership. To become a more effective leader, I need to get some more holistic experience building and growing a business or line of business. So I'm taking on new and expanded responsibilities, expanding outside of my comfort zone, learning what I need to learn to really make a go of it.
+
+I'd really like to put a dent in the Neurodiversity space. Much of what's out there now is based on ideas from Neurotypical leaders, and while it's helped a lot of people, there's a lot of room for improvement. I'd like to develop good working examples of better ways to employ the talents of a truly neurodiverse workforce, and share those learnings. I'm working on something like this right now for my current employer, but I don't have the agency to do it nearly as well as I'd like.
 
 ### Are there any responsibilities you have outside of your day-job that you want your peers to know about?
 
