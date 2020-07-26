@@ -53,3 +53,29 @@ It's one thing to say what you value. But it's another to ask others around you 
 - Empathy (feeling what others feel)
 - Sympathy (understanding others feelings... the _why_)
 - Compassion (feeling what others feel, understanding those feelings, and taking stake in the outcome)
+
+## What makes me tick?
+
+These questions were provided to me via Dr. Nicole Radziwill & Rajesh Anandan of [Ultranauts](https://ultranauts.co).
+
+### What motivates you/makes you tick?
+
+Finding, exploring, and nurturing hidden potential. Both in myself and in others. And, taken in meta, the hidden potential of groups of people.
+
+### What do you want to achieve personally in the next decade?
+
+I know I have a lot of stories in me, but I've been struggling with finding the attention span to finish writing *one* (vs. finding it easy to start *many*). I like to write, and I think I'm not bad at it. I'd like to do something more substantial with that.
+
+### What do you want to achieve professionally in the next decade?
+
+I want to start the kind of business that I'd prefer to work for. I want to have the kind of accountability where the most serious organizational challenges are within my ability to heavily influence better outcomes. I think I'm hitting a wall right now because of constraints from other departments where I have no influence or accountability (finance, HR, etc). I want to experiment with what the work day and work force looks like in a way where old norms can get a fresh look, and possibly treated to some radical change experiments. And I want to share what I learn.
+
+### What do you want to achieve professionally in the next 2-3 years?
+
+I want to learn the skills I need to start and grow my own business. I have a lot of experience leading large teams of technologists, and as broad as that scope of responsibility comes, it's still siloed to technology leadership. To become a more effective leader, I need to get some more holistic experience building and growing a business or line of business.
+
+### Are there any responsibilities you have outside of your day-job that you want your peers to know about?
+
+I really enjoy podcasting and photography. Sometimes I can sneak these passions into my day job, and when I can it gives me a lot of joy. 
+
+I do set aside a nice chunk of my personal time for helping out other programs that are helping Autistic adults. It's important to me that these programs succeed, and it's also important to me that they have more influence from successful Autistic adults (so that the often Allistic leaders of these programs gets effective input on what Autistic adults may need to become more successful and independent).
