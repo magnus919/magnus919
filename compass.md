@@ -20,7 +20,7 @@ We do much to hold ourselves back internally. And we do much to hold others back
 
 > By running a business that intentionally pushes boundaries out that currently limit human potential, we enable ourselves and those around us to lead more fulfilling lives. We will lead by example, first discovering what's possible for ourselves, and then helping other organizations to take up these methods.
 
-I've got a particular interest in helping Autistic and Neurodivergent people, intersectionality with the broader Disabled community, LGTBQ+, Black, Indigenous, People of Color, etc. 
+I've got a particular interest in helping Autistic and Neurodivergent people, intersectionality with the broader Disabled community, women, LGTBQ+, Black, Indigenous, People of Color, and other under-represented groups. 
 
 ## Values
 
