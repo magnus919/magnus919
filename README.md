@@ -18,7 +18,7 @@ I'm not actively contributing code on GitHub (this is just not in my core streng
 
 ## What guides me
 
-See [my compass](compass.md).
+See [my compass](https://github.com/magnus919/magnus919/blob/master/compass.md).
 
 ## What I'm doing
 
