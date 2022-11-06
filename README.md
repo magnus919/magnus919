@@ -36,7 +36,10 @@ See [my compass](https://github.com/magnus919/magnus919/blob/master/compass.md).
 - Podcast 
     - [_Autism-First Language_](https://autismfirst.transistor.fm/subscribe)
     - [_Neuroverse_](https://neuroverse.transistor.fm/subscribe)
+- Mastodon
+  - [@magnus919@fosstodon.org](https://fosstodon.org/@magnus919/)
 - Twitter 
+  I left Twitter since Elon Musk purchased it. But here's where I was.
     - [personal](https://twitter.com/Magnus919)
     - [podcasting](https://twitter.com/groktopus)
 
