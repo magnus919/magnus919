@@ -2,17 +2,13 @@
 
 ## Quick View
 
-- 🔭 I’m currently working as a solopreneur via my own company, Groktopus LLC. 
-- 💬 Ask me about _Autism at Work_ and _Neurodiversity_.
+- 🔭 I’m currently working as a solopreneur via my own company, Groktopus LLC. And other stuff.
 - 📫 How to reach me: I'm easy to find on LinkedIn. If I don't already know you, I probably don't want our first encounter to happen through email or private message.
 - 😄 Pronouns: He/Him or They/Them
-- ⚡ Fun fact: Tech is just one of many far-flung interests. I could have just as easily gone into a different field if I thought I could make steady income from it.
 
 ## Who am I?
 
 Hi, I'm Magnus. I live in Raleigh, North Carolina
-
-I'm currently (Apr 2026) working as VP Engineering at a healthcare company. 
 
 ## What guides me
 
