@@ -28,8 +28,8 @@ See [my compass](https://github.com/magnus919/magnus919/blob/master/compass.md).
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://img.shields.io/github/followers/magnus919?style=flat&logo=github&label=Followers&color=#1a170f"/>
-  <img src="https://img.shields.io/github/stars/magnus919/hermes-cashew?style=flat&logo=github&label=hermes-cashew%20stars"/>
-  <img src="https://img.shields.io/github/stars/magnus919/n8n-nodes-shlink-ai?style=flat&logo=github&label=n8n-shlink%20stars"/>
-  <img src="https://img.shields.io/github/stars/magnus919/mcp-shlink?style=flat&logo=github&label=mcp-shlink%20stars"/>
+  <img src="https://img.shields.io/github/followers/magnus919?style=flat&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/magnus919/hermes-cashew?style=flat&label=hermes-cashew"/>
+  <img src="https://img.shields.io/github/stars/magnus919/n8n-nodes-shlink-ai?style=flat&label=n8n-shlink"/>
+  <img src="https://img.shields.io/github/stars/magnus919/mcp-shlink?style=flat&label=mcp-shlink"/>
 </p>
