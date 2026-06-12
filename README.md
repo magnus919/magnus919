@@ -4,7 +4,9 @@ Builder, engineering leader, and open source contributor. I work on AI agent inf
 
 ## What I build and contribute
 
-**[artifact pyramids](https://magnus919.com/2026/01/artifact-pyramids-ai-native-knowledge-curation/)** - A methodology I designed for structuring AI research outputs. Progressive disclosure from a one-line summary to deep dossiers, built so agents and humans can share the same artifacts. Getting some traction in the agent ecosystem.
+**[artifact pyramids](https://github.com/groktopus/artifact-pyramids)** - A methodology I designed for structuring AI research outputs that's getting some traction in the agent ecosystem. Progressive disclosure from a one-line summary to deep dossiers, built so agents and humans can share the same artifacts.
+
+**[groktocrawl](https://github.com/groktopus/groktocrawl)** - Self-hosted, API-compatible Firecrawl alternative. Built-in agent endpoint for grounded Q&A, site-specific adapters (GitHub, YouTube, Substack), semantic dedup, and a web portal. MIT license, one Docker compose to run.
 
 **[hermes-cashew](https://github.com/magnus919/hermes-cashew)** - Persistent session-to-session memory for AI agents. Bridges the gap between what an agent knows and what it remembers. Maintainer.
 
@@ -32,11 +34,16 @@ I maintain a homelab that runs most of the infrastructure I build and write abou
 
 ## A few things I've built
 
+[groktocrawl](https://github.com/groktopus/groktocrawl) |
+[artifact-pyramids](https://github.com/groktopus/artifact-pyramids) |
+[flywheel](https://github.com/groktopus/flywheel) |
 [hermes-cashew](https://github.com/magnus919/hermes-cashew) |
 [SlopSearX](https://github.com/magnus919/SlopSearX) |
 [mcp-searxng](https://github.com/magnus919/mcp-searxng) |
 [hermes-council](https://github.com/magnus919/hermes-council) |
-[n8n-nodes-shlink-ai](https://github.com/magnus919/n8n-nodes-shlink-ai)
+[n8n-nodes-shlink-ai](https://github.com/magnus919/n8n-nodes-shlink-ai) |
+[groktodash](https://github.com/groktopus/groktodash) |
+[groktobench](https://github.com/groktopus/groktobench)
 
 ## Find me
 
