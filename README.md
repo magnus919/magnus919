@@ -30,7 +30,7 @@ Pick your adventure.
 
 ## How I build
 
-I maintain a homelab that runs most of the infrastructure I build and write about. Self-hosted search (SearXNG, SlopSearX), agent backends (LightRAG, hermes-cashew), media servers, mesh network repeaters, and the usual staples (Traefik, Grafana, the *arr stack). I believe in operating what you build. It's the fastest way to find the edge cases.
+I maintain a homelab that runs most of the infrastructure I build and write about. Self-hosted search (SearXNG, SlopSearX), agent backends (LightRAG, hermes-cashew), mesh network repeaters, and the usual staples (Traefik, Grafana, Postgres, a NAS). I believe in operating what you build. It's the fastest way to find the edge cases.
 
 ## A few things I've built
 
