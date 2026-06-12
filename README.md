@@ -1,35 +1,52 @@
 # Magnus Hedemark
 
-## Quick View
-- 🔭 I'm currently working as a solopreneur via my own company, Groktopus LLC.
-- 📫 How to reach me: I'm easy to find on LinkedIn. If I don't already know you, I probably don't want our first encounter to happen through email or private message.
-- 😄 Pronouns: He/Him or They/Them
+Builder, engineering leader, and open source contributor. I work on AI agent infrastructure and I run most of it on my own hardware so I know it actually works.
 
-## Who am I?
-Hi, I'm Magnus. I live in Raleigh, North Carolina.
+I keep a [compass](https://github.com/magnus919/magnus919/blob/master/compass.md) of what guides me. It's the most honest thing I've written.
 
-## What guides me
-See [my compass](https://github.com/magnus919/magnus919/blob/master/compass.md).
+## What I build and contribute
 
-## What I'm doing
-- **[Magnus919.com](https://magnus919.com)** — Personal blog: AI philosophy, software engineering, mesh networking, neurodiversity, and investigative writing.
-- **[Groktopus](https://groktop.us)** — Enterprise AI strategy and analysis.
-- **[RDUMesh](https://rdumesh.org)** — Community mesh network covering the Research Triangle area.
-- **[hermes-cashew](https://github.com/magnus919/hermes-cashew)** — Persistent thought-graph memory for AI agents via Hermes Agent. Maintainer.
-- **[hermes-agent](https://github.com/NousResearch/hermes-agent)** — Active contributor to the open-source agent framework.
-- **[cashew](https://github.com/rajkripal/cashew)** — Active contributor to the thought-graph memory library.
+**[artifact pyramids](https://github.com/groktopus/artifact-pyramids)** - A methodology I designed for structuring AI research outputs that's getting some traction in the agent ecosystem. Progressive disclosure from a one-line summary to deep dossiers, built so agents and humans can share the same artifacts.
 
-## Tools & Technologies
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" alt="Hugo" width="40" height="40"/>
-</p>
+**[groktocrawl](https://github.com/groktopus/groktocrawl)** - Self-hosted, API-compatible Firecrawl alternative. Built-in agent endpoint for grounded Q&A, site-specific adapters (GitHub, YouTube, Substack), semantic dedup, and a web portal. MIT license, one Docker compose to run.
 
-## GitHub Stats
-<p align="left">
-  <img src="https://img.shields.io/github/followers/magnus919?style=flat&label=Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmagnus919%2Fhermes-cashew&query=%24.stargazers_count&label=hermes-cashew&style=flat"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmagnus919%2Fn8n-nodes-shlink-ai&query=%24.stargazers_count&label=n8n-shlink&style=flat"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmagnus919%2Fmcp-shlink&query=%24.stargazers_count&label=mcp-shlink&style=flat"/>
-</p>
+**[hermes-cashew](https://github.com/magnus919/hermes-cashew)** - Persistent session-to-session memory for AI agents. Bridges the gap between what an agent knows and what it remembers. Maintainer.
+
+**[hermes-agent](https://github.com/NousResearch/hermes-agent)** - I contribute to the core agent framework. Memory provider interfaces, profile system design, kanban orchestration, and ongoing architecture discussions.
+
+**[cashew](https://github.com/rajkripal/cashew)** - I contribute upstream on integration patterns, sleep cycle scaling, and the DAO architecture for the next-generation storage layer.
+
+**[SlopSearX](https://github.com/magnus919/SlopSearX)** - A stateless, AI-agent-first meta search engine. Drop-in SearXNG replacement designed for agent consumption.
+
+**[RDUMesh](https://rdumesh.org)** - A community mesh network I co-founded covering the Research Triangle area. Real infrastructure, real nodes.
+
+## What I write
+
+Two sites, two audiences.
+
+**[magnus919.com](https://magnus919.com)** - For engineers. Deep dives on agent memory systems, RAG architecture, self-hosted infrastructure, and the hard parts of building persistent AI systems.
+
+**[groktop.us](https://groktop.us)** - For technology leaders. Strategy writing on AI workforce transformation, the nano-SaaS model, and what it takes to actually ship agentic systems at scale.
+
+Pick your adventure.
+
+## How I build
+
+I maintain a homelab that runs most of the infrastructure I build and write about. Self-hosted search (SlopSearX), agent backends (LightRAG, hermes-cashew), mesh network repeaters, and the usual staples (Traefik, Grafana, Postgres, a NAS). I believe in operating what you build. It's the fastest way to find the edge cases.
+
+## A few things I've built
+
+[groktocrawl](https://github.com/groktopus/groktocrawl) |
+[artifact-pyramids](https://github.com/groktopus/artifact-pyramids) |
+[flywheel](https://github.com/groktopus/flywheel) |
+[hermes-cashew](https://github.com/magnus919/hermes-cashew) |
+[SlopSearX](https://github.com/magnus919/SlopSearX) |
+[mcp-searxng](https://github.com/magnus919/mcp-searxng) |
+[hermes-council](https://github.com/magnus919/hermes-council) |
+[n8n-nodes-shlink-ai](https://github.com/magnus919/n8n-nodes-shlink-ai) |
+[groktodash](https://github.com/groktopus/groktodash) |
+[groktobench](https://github.com/groktopus/groktobench)
+
+## Find me
+
+[LinkedIn](https://linkedin.com/in/hedemark) if we've worked together or share a connection. Otherwise the best way to find me is through my writing or my repos. I'm easy to spot.
