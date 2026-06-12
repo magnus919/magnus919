@@ -2,6 +2,8 @@
 
 Builder, engineering leader, and open source contributor. I work on AI agent infrastructure and I run most of it on my own hardware so I know it actually works.
 
+I keep a [compass](https://github.com/magnus919/magnus919/blob/master/compass.md) of what guides me. It's the most honest thing I've written.
+
 ## What I build and contribute
 
 **[artifact pyramids](https://github.com/groktopus/artifact-pyramids)** - A methodology I designed for structuring AI research outputs that's getting some traction in the agent ecosystem. Progressive disclosure from a one-line summary to deep dossiers, built so agents and humans can share the same artifacts.
@@ -30,7 +32,7 @@ Pick your adventure.
 
 ## How I build
 
-I maintain a homelab that runs most of the infrastructure I build and write about. Self-hosted search (SearXNG, SlopSearX), agent backends (LightRAG, hermes-cashew), mesh network repeaters, and the usual staples (Traefik, Grafana, Postgres, a NAS). I believe in operating what you build. It's the fastest way to find the edge cases.
+I maintain a homelab that runs most of the infrastructure I build and write about. Self-hosted search (SlopSearX), agent backends (LightRAG, hermes-cashew), mesh network repeaters, and the usual staples (Traefik, Grafana, Postgres, a NAS). I believe in operating what you build. It's the fastest way to find the edge cases.
 
 ## A few things I've built
 
