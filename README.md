@@ -1,6 +1,6 @@
 # Magnus Hedemark
 
-Builder, engineering leader, and open source contributor. I work on AI agent infrastructure and I run most of it on my own hardware so I know it actually works.
+Engineering executive, AI practitioner, and open-source contributor. I build agentic systems and run much of the infrastructure myself so my ideas stay connected to what actually works.
 
 I keep a [compass](https://github.com/magnus919/magnus919/blob/master/compass.md) of what guides me. It's the most honest thing I've written.
 
