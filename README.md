@@ -8,13 +8,13 @@ I keep a [compass](https://github.com/magnus919/magnus919/blob/master/compass.md
 
 **[agent-skills](https://github.com/magnus919/agent-skills)** - A growing open-source library of reusable AI agent capabilities, including governance, evaluations, production operations, operating economics, and multi-agent collaboration. Built around the open Agent Skills format for portability across frameworks.
 
-**[artifact pyramids](https://github.com/groktopus/artifact-pyramids)** - A methodology I designed for structuring AI research outputs that's getting some traction in the agent ecosystem. Progressive disclosure from a one-line summary to deep dossiers, built so agents and humans can share the same artifacts.
-
 **[groktocrawl](https://github.com/groktopus/groktocrawl)** - Self-hosted, API-compatible Firecrawl alternative. Built-in agent endpoint for grounded Q&A, site-specific adapters (GitHub, YouTube, Substack), semantic dedup, and a web portal. MIT license, one Docker compose to run.
 
-**[hermes-cashew](https://github.com/magnus919/hermes-cashew)** - Persistent session-to-session memory for AI agents. Bridges the gap between what an agent knows and what it remembers. Maintainer.
-
 **[SlopSearX](https://github.com/magnus919/SlopSearX)** - A stateless, AI-agent-first meta search engine. Drop-in SearXNG replacement designed for agent consumption.
+
+**[artifact pyramids](https://github.com/groktopus/artifact-pyramids)** - A methodology I designed for structuring AI research outputs that's getting some traction in the agent ecosystem. Progressive disclosure from a one-line summary to deep dossiers, built so agents and humans can share the same artifacts.
+
+**[hermes-cashew](https://github.com/magnus919/hermes-cashew)** - Persistent session-to-session memory for AI agents. Bridges the gap between what an agent knows and what it remembers. Maintainer.
 
 **[RDUMesh](https://rdumesh.org)** - A community mesh network I co-founded covering the Research Triangle area. Real infrastructure, real nodes.
 
