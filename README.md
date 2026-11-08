@@ -4,21 +4,27 @@ Engineering executive, AI practitioner, and open-source contributor. I build age
 
 I keep a [compass](https://github.com/magnus919/magnus919/blob/master/compass.md) of what guides me. It's the most honest thing I've written.
 
-## What I build and contribute
+## What I build
 
-**[agent-skills](https://github.com/magnus919/agent-skills)** - A growing open-source library of reusable AI agent capabilities, including governance, evaluations, production operations, operating economics, and multi-agent collaboration. Built around the open Agent Skills format for portability across frameworks.
+**[agent-skills](https://github.com/magnus919/agent-skills)** - A growing open-source library of reusable AI agent capabilities, from software delivery and product strategy to business operations, research, and creative work. It also covers governance, evaluations, production operations, operating economics, and multi-agent collaboration. Built around the open Agent Skills format for portability across frameworks.
 
-**[groktocrawl](https://github.com/groktopus/groktocrawl)** - Self-hosted, API-compatible Firecrawl alternative. Built-in agent endpoint for grounded Q&A, site-specific adapters (GitHub, YouTube, Substack), semantic dedup, and a web portal. MIT license, one Docker compose to run.
+**[groktocrawl](https://github.com/groktopus/groktocrawl)** - A self-hosted web data and research platform compatible with the Firecrawl v2 API. Scraping, crawling, structured extraction, browser automation, monitors, semantic retrieval, an autonomous research agent, and MCP in one Docker deployment. MIT licensed.
 
-**[SlopSearX](https://github.com/magnus919/SlopSearX)** - A stateless, agent-first meta search engine designed for AI systems rather than human browsing. It provides a lightweight, self-hosted search layer for agents that need replaceable infrastructure, clean outputs, and control over how web search is consumed.
+**[SlopSearX](https://github.com/magnus919/SlopSearX)** - A stateless, agent-first meta search engine with a SearXNG-compatible API, MCP tools, and a human search portal. Self-hosted search with structured outputs and control over how agents consume the web. A Rust rewrite is in progress.
 
-**[artifact pyramids](https://github.com/groktopus/artifact-pyramids)** - A methodology I designed for structuring AI research outputs that's getting some traction in the agent ecosystem. Progressive disclosure from a one-line summary to deep dossiers, built so agents and humans can share the same artifacts.
+**[codereview](https://github.com/groktopus/codereview)** - An experimental AI code-review harness with deterministic planning, bounded specialist reviews, and auditable reports. The CLI is read-only, with publishing limited to review previews.
 
-**[hermes-cashew](https://github.com/magnus919/hermes-cashew)** - Persistent session-to-session memory for AI agents. Bridges the gap between what an agent knows and what it remembers. Maintainer.
+## Tools and methods
+
+**[hermes-cashew](https://github.com/magnus919/hermes-cashew)** - A Hermes Agent memory-provider plugin integrating Cashew's local thought graph, semantic search, automatic recall, and consolidation. Bridges the gap between what an agent knows and what it remembers. Maintainer.
+
+**[hermes-SkillOpt](https://github.com/magnus919/hermes-SkillOpt)** - A controlled skill-optimization workflow for Hermes Agent, inspired by Microsoft Research's SkillOpt. It runs skills against tasks, proposes bounded edits, and validates them on held-out tasks before acceptance.
+
+**[artifact pyramids](https://github.com/groktopus/artifact-pyramids)** - A methodology I designed for structuring AI research outputs. Progressive disclosure from a one-line summary to deep dossiers, built so agents and humans can share the same artifacts.
+
+## Community
 
 **[RDUMesh](https://rdumesh.org)** - A community mesh network I co-founded covering the Research Triangle area. Real infrastructure, real nodes.
-
-**[hermes-agent](https://github.com/NousResearch/hermes-agent)** - I contribute to the core agent framework. Memory provider interfaces, profile system design, kanban orchestration, and ongoing architecture discussions.
 
 ## What I write
 
@@ -37,3 +43,5 @@ I maintain a homelab that runs most of the infrastructure I build and write abou
 ## Find me
 
 [LinkedIn](https://linkedin.com/in/hedemark) for my professional work and leadership background. My longer-form writing lives at [groktop.us](https://groktop.us) and [magnus919.com](https://magnus919.com).
+
+You can also find me on [Bluesky](https://bsky.app/profile/magnus919.com).
