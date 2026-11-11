@@ -14,6 +14,8 @@ I keep a [compass](https://github.com/magnus919/magnus919/blob/master/compass.md
 
 **[codereview](https://github.com/groktopus/codereview)** - An experimental AI code-review harness with deterministic planning, bounded specialist reviews, and auditable reports. The CLI is read-only, with publishing limited to review previews.
 
+**[Wordgames](https://github.com/magnus919/wordgames)** - Self-hosted daily word puzzles with an accessible browser interface and a Rust publishing backend. Built for playing, extending, and running yourself. [Play online](https://wordgames.brandyapple.com/).
+
 ## Tools and methods
 
 **[hermes-cashew](https://github.com/magnus919/hermes-cashew)** - A Hermes Agent memory-provider plugin integrating Cashew's local thought graph, semantic search, automatic recall, and consolidation. Bridges the gap between what an agent knows and what it remembers. Maintainer.
